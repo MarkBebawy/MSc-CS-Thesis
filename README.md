@@ -34,4 +34,4 @@ Furthermore, this thesis highlights the value of separating the information-
 theoretic proof system from its cryptographic compiler to study these components in a modular fashion.
 
 # Full thesis
-https://github.com/MarkBebawy/LPCP-compiler/blob/main/MSc_CS_Thesis.pdf
+[Download PDF](https://github.com/MarkBebawy/MSc-CS-Thesis/blob/main/MSc_CS_Thesis.pdf)
