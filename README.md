@@ -35,3 +35,6 @@ theoretic proof system from its cryptographic compiler to study these components
 
 # Full thesis
 [Download PDF](https://github.com/MarkBebawy/MSc-CS-Thesis/blob/main/MSc_CS_Thesis.pdf)
+
+# Related literature study
+[A Taxonomy of Probabilistic Proof Systems](https://github.com/MarkBebawy/MSc-CS-Thesis/blob/main/TaxonomyProofSystems.pdf)
